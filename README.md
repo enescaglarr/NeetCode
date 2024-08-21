@@ -11,7 +11,7 @@ This repository contains Python code solutions to 150 NeetCode questions, a popu
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/neetcode-solutions.git
+    git clone https://github.com/enescaglarr/NeetCode.git
     cd neetcode-solutions
     ```
 
