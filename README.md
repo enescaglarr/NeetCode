@@ -60,7 +60,7 @@ Feel free to fork the repository and submit a pull request if you have improveme
 
 For a detailed explanation of each solution in Turkish, check out my YouTube channel:
 
-- [NeetCode Solutions in Turkish](https://www.youtube.com/@EnesCaglar1)
+- [NeetCode Solutions in Turkish](https://www.youtube.com/@enes-caglar)
 
 ## 📫 Contact
 
